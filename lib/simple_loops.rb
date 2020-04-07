@@ -26,6 +26,7 @@ end
 
 def return_string_array(array)
   string_array = ()
+  counter = 0
   while array.length do
     array << string_array
   end
